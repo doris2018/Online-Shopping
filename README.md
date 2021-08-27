@@ -9,7 +9,7 @@ This web application is built to help users shop and order items online.
 
 
 
-🚢 Fuctionality
+🚢 Functionality
 
 •	On the home page, users need to register as a new user or log into an existing account. Only authorized users can delete or add product to the system.
 
