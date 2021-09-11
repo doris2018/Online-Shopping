@@ -2,7 +2,6 @@
 
 A Spring and Hibernate based Shopping and Ordering Website
 
-
 ❤️ Motivation
 
 This web application is built to help users shop and order items online.
