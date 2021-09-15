@@ -3,7 +3,6 @@ package onlineShop.service;
 import onlineShop.entity.Cart;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import onlineShop.dao.CustomerDao;
 import onlineShop.entity.Customer;
 
