@@ -13,6 +13,7 @@ public class CustomerService {
     private CustomerDao customerDao;
 
     public void addCustomer(Customer customer) {
+        
         customer.getUser().setEnabled(true);
 
         Cart cart = new Cart();
